@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vipin.chaudhary_cs19@gla.ac.in**
 
-- ⚡ Fun fact **I think I am a ... <font color = "red">Exception in thread “main” StackOverflowError</font>**
+- ⚡ Fun fact **I think I am a ... **<p style="color:red">Exception in thread “main” StackOverflowError</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
