@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vipin.chaudhary_cs19@gla.ac.in**
 
-- ⚡ Fun fact **I think I am a ...**<img src="https://i.imgur.com/RKHsXyI.png">
+- ⚡ Fun fact **I think I am a ...**<p><img src="https://i.imgur.com/RKHsXyI.png"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
