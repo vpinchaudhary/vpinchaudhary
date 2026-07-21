@@ -1,19 +1,23 @@
 # Vipin Chaudhary
 
-**Senior Member of Technical Staff @ NorthStar Dental** — building AI-native product experiences for healthcare.
+**Senior Member of Technical Staff @ NorthStar Dental** — building AI-native products for healthcare, under real HIPAA constraints.
 
-I work at the intersection of applied AI and product engineering: agentic workflows, LLM-powered tooling, and the web platforms they ship on.
+I work at the intersection of applied AI and product engineering: agentic systems, RAG pipelines, LLM-powered tooling — and the platforms they ship on.
 
-## What I'm working on
+## What I'm building
 
-- **AI-native patient platforms** — multi-brand healthcare sites with self-schedule booking flows, built as a TypeScript monorepo (Next.js, static-export architecture)
-- **Agentic engineering** — multi-agent pipelines and Claude Code plugins; [fanfic-studio](https://github.com/vpinchaudhary/fanfic-studio) orchestrates 15 specialist agents for autonomous long-form writing with validation, continuity tracking, and voice matching
-- **AI search & discoverability** — GEO/AEO strategy, `llms.txt` pipelines, and structured data so products are legible to both crawlers and LLMs
-- **Web performance** — LCP discipline, critical-CSS inlining, and accessibility as defaults, not afterthoughts
+- **AI coding agents** — a desktop AI agent (Tauri) with a two-mode pipeline: rapid AI-built product delivery, followed by an autonomous hardening pass that audits HIPAA compliance, security, architecture, and test coverage
+- **Relationship intelligence** — a RAG-backed account-memory engine (PostgreSQL + pgvector, Voyage embeddings, Claude) that turns every conversation into structured intelligence and next-best-action artifacts
+- **AI-powered QA** — E2E validation that uses vision models + Playwright + BDD to automate visual audits no assertion library can express
+- **Agentic engineering in the open** — [fanfic-studio](https://github.com/vpinchaudhary/fanfic-studio): a Claude Code plugin orchestrating 15 specialist agents for autonomous long-form writing with validation, continuity tracking, and voice matching
+- **AI-native patient platforms** — multi-brand healthcare sites with self-schedule booking flows, built as a TypeScript monorepo with LLM discoverability (GEO/AEO, `llms.txt`) and web performance as defaults
+
+Most of this ships inside a HIPAA-regulated healthcare business — compliance-aware AI engineering, not demo-ware.
 
 ## Toolbox
 
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `LLM APIs (Claude, MCP)` · `PostHog` · `Tailwind` · `pnpm monorepos` · `IndexedDB / offline-first`
+**AI:** Claude API · MCP · multi-agent orchestration · RAG (pgvector, Voyage) · vision-model QA · prompt & eval pipelines
+**Platform:** TypeScript · Next.js / React · Node.js · Go · Python · PostgreSQL · AWS (CDK) · pnpm monorepos
 
 ## Elsewhere
 
